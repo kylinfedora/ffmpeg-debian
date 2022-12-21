@@ -149,6 +149,7 @@ extern AVFilter ff_asrc_sine;
 
 extern AVFilter ff_asink_anullsink;
 
+extern AVFilter ff_vf_scale_rga;
 extern AVFilter ff_vf_addroi;
 extern AVFilter ff_vf_alphaextract;
 extern AVFilter ff_vf_alphamerge;
